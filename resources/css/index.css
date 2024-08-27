@@ -33,3 +33,12 @@ body {
     font-size: 21px;
     color: gray;
 }
+
+#travel-guide {
+    padding-bottom: 20px;
+}
+
+#foot .copyright{
+    text-align: right;
+    color: gray;
+}
