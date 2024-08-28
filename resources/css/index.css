@@ -1,6 +1,6 @@
 body {
     background-color: black;
-    text-align: center; /* Not standard practice but applies here */
+    text-align: center; } /* Not standard practice but applies here */
 
 #main-header .title{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
